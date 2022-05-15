@@ -47,7 +47,7 @@ const Footer = () => {
                 <FaInstagram />
               </span>
             </a>
-            <a href="https://twitter.com/NishanD79240904">
+            <a href="https://twitter.com/jamshedjisan">
               <span>
                 <FaTwitter />
               </span>
