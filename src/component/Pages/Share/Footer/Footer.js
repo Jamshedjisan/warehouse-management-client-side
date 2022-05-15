@@ -6,7 +6,6 @@ import {
   FaTwitter,
   FaLinkedinIn,
 } from "react-icons/fa";
-import { Link } from "react-router-dom";
 import "./Footer.css";
 
 const Footer = () => {
@@ -52,7 +51,7 @@ const Footer = () => {
                 <FaTwitter />
               </span>
             </a>
-            <a href="https://www.linkedin.com/in/nishan-das-00bb58215/">
+            <a href="https://www.linkedin.com/in/jamshed-jisan-00bb58215/">
               <span>
                 <FaLinkedinIn />
               </span>
@@ -62,7 +61,7 @@ const Footer = () => {
         <div className="footer-down-info text-center">
           <p>
             <small>
-              All COPYRIGHT &copy; {year}, DESIGNED BY Jamshedul Alam{" "}
+              All COPYRIGHT &copy; {year}, Designed By Jamshedul Alam{" "}
             </small>
           </p>
         </div>
