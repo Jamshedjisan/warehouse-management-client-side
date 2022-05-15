@@ -59,7 +59,7 @@ const Footer = () => {
             </a>
           </div>
         </div>
-        <div className="footer-down-info  text-center">
+        <div className="footer-down-info text-center">
           <p>
             <small>
               All COPYRIGHT &copy; {year}, DESIGNED BY Jamshedul Alam{" "}
