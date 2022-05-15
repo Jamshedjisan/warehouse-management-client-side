@@ -1,0 +1,9 @@
+.news-card.shadow-lg.border-none.card {
+  height: 480px;
+}
+
+.news-btn {
+  position: absolute;
+  bottom: 3%;
+  right: 40%;
+}
