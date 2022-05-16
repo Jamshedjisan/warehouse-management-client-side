@@ -40,10 +40,6 @@ const Blogs = () => {
                   6. <FaArrowRight /> It is the upgraded version of ECMA script
                   that uses Chrome’s V8 engine written in C++.
                 </p>
-                <p>
-                  7. <FaArrowRight /> Some of the javascript frameworks are
-                  RamdaJS, TypedJS, etc.
-                </p>
               </div>
             </div>
             <div className="n-ans-area">
