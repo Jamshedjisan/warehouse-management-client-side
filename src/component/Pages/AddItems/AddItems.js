@@ -46,7 +46,7 @@ const AddItems = () => {
     <div className="mt-5 mx-auto">
       <Container>
         <Row>
-        <h2 className="text-center mb-5">Add Items</h2>
+          <h2 className="text-center mb-5">Add Items</h2>
           <Form onSubmit={handleInventory}>
             <Form.Group className="mb-3" controlId="formBasicEmail">
               <Form.Label>Email address</Form.Label>
@@ -112,7 +112,7 @@ const AddItems = () => {
                 required
                 name="photoUrl"
                 type="text"
-                placeholder="Enter supplier name"
+                placeholder="Given the photo url"
               />
             </Form.Group>
             <div className="w-50 mx-auto mb-5  text-center">
